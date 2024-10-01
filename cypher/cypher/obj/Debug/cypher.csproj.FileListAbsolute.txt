@@ -1,0 +1,10 @@
+C:\Users\Antonio\Source\Repos\cypher\cypher\bin\Debug\cypher.exe.config
+C:\Users\Antonio\Source\Repos\cypher\cypher\bin\Debug\cypher.exe
+C:\Users\Antonio\Source\Repos\cypher\cypher\bin\Debug\cypher.pdb
+C:\Users\Antonio\Source\Repos\cypher\cypher\obj\Debug\cypher.csprojAssemblyReference.cache
+C:\Users\Antonio\Source\Repos\cypher\cypher\obj\Debug\cypher.Form1.resources
+C:\Users\Antonio\Source\Repos\cypher\cypher\obj\Debug\cypher.Properties.Resources.resources
+C:\Users\Antonio\Source\Repos\cypher\cypher\obj\Debug\cypher.csproj.GenerateResource.cache
+C:\Users\Antonio\Source\Repos\cypher\cypher\obj\Debug\cypher.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Source\Repos\cypher\cypher\obj\Debug\cypher.exe
+C:\Users\Antonio\Source\Repos\cypher\cypher\obj\Debug\cypher.pdb
